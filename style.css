@@ -1,0 +1,23 @@
+header {
+    background-image: url(https://cdn-ak.f.st-hatena.com/images/fotolife/a/alc_gotcha/20170620/20170620185303.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    margin-top: 0px;
+}
+h1 {
+    text-align: center;
+    font-size: 50px ;
+    padding-top: 40px;
+    color: white;
+}
+.top-wrapper {
+    padding: 50px 90px 70px 90px;
+    background-color:  gainsboro;
+}
+main a {
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:orangered;
+    padding: 0px 9px;
+}
