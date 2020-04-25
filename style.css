@@ -37,4 +37,8 @@ main a {
     .flex-list li { 
         margin: 0 auto;
     }
+p {
+    opacity: 0.5;
+    text-align: center;
+}
     
