@@ -21,12 +21,10 @@ main a {
     color:orangered;
     padding: 0px 9px;
 }
-ul {
-    list-style: none;
-}
 .flex-list {
     display: flex;
     flex-wrap: wrap;
+    list-style: none;
 }
 .flex-list li {
     flex:auto;
