@@ -21,9 +21,22 @@ main a {
     color:orangered;
     padding: 0px 9px;
 }
+ul {
+    list-style: none;
+}
+.flex-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-list li {
+    flex:auto;
+    width: 50%;
+}
 @media (max-width: 670px)
-    .top-wrapper tr {
+    .flex-list {
         flex-direction: column;
+    }
+    .flex-list li { 
         margin: 0 auto;
     }
     
